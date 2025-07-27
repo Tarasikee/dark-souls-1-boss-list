@@ -10,8 +10,8 @@
 - [x] **Chaos Witch Quelaag** (Blighttown/Quelaag’s Domain)
 - [x] **Moonlight Butterfly** – optional
 - [ ] **Great Grey Wolf Sif** (Darkroot Garden)
-- [ ] **Iron Golem** (Sen’s Fortress)
-- [ ] **Dragon Slayer Ornstein and Executioner Smough** (Anor Londo)
+- [x] **Iron Golem** (Sen’s Fortress)
+- [x] **Dragon Slayer Ornstein and Executioner Smough** (Anor Londo)
 - [ ] **Dark Sun Gwyndolin** – optional
 - [ ] **Crossbreed Priscilla** – optional
 - [ ] **Seath the Scaleless** (The Duke’s Archives/Crystal Cave)
