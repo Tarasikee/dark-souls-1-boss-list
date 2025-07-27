@@ -7,7 +7,7 @@
 - [x] **Bell Gargoyles**
 - [x] **Capra Demon**
 - [x] **Gaping Dragon** (The Depths)
-- [ ] **Chaos Witch Quelaag** (Blighttown/Quelaag’s Domain)
+- [x] **Chaos Witch Quelaag** (Blighttown/Quelaag’s Domain)
 - [x] **Moonlight Butterfly** – optional
 - [ ] **Great Grey Wolf Sif** (Darkroot Garden)
 - [ ] **Iron Golem** (Sen’s Fortress)
