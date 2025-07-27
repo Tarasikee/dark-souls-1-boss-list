@@ -2,18 +2,18 @@
 
 ## Base Game Bosses
 - [x] **Asylum Demon** (Northern Undead Asylum)
-- [ ] **Stray Demon** – (Upon returning to Undead Asylum)
+- [x] **Stray Demon** – (Upon returning to Undead Asylum)
 - [x] **Taurus Demon** (Undead Burg/Undead Parish)
 - [x] **Bell Gargoyles**
 - [x] **Capra Demon**
 - [x] **Gaping Dragon** (The Depths)
 - [x] **Chaos Witch Quelaag** (Blighttown/Quelaag’s Domain)
 - [x] **Moonlight Butterfly** – optional
-- [ ] **Great Grey Wolf Sif** (Darkroot Garden)
+- [x] **Great Grey Wolf Sif** (Darkroot Garden)
 - [x] **Iron Golem** (Sen’s Fortress)
 - [x] **Dragon Slayer Ornstein and Executioner Smough** (Anor Londo)
-- [ ] **Dark Sun Gwyndolin** – optional
-- [ ] **Crossbreed Priscilla** – optional
+- [x] **Dark Sun Gwyndolin** – optional
+- [x] **Crossbreed Priscilla** – optional
 - [ ] **Seath the Scaleless** (The Duke’s Archives/Crystal Cave)
 - [ ] **Pinwheel** (The Catacombs)
 - [ ] **Gravelord Nito** (Tomb of the Giants)
