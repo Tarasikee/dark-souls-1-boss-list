@@ -15,7 +15,7 @@
 - [x] **Dark Sun Gwyndolin** – optional
 - [x] **Crossbreed Priscilla** – optional
 - [ ] **Seath the Scaleless** (The Duke’s Archives/Crystal Cave)
-- [ ] **Pinwheel** (The Catacombs)
+- [x] **Pinwheel** (The Catacombs)
 - [ ] **Gravelord Nito** (Tomb of the Giants)
 - [ ] **Four Kings** (New Londo Ruins)
 - [ ] **Ceaseless Discharge** (Demon Ruins)
