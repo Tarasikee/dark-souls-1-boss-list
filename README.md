@@ -14,14 +14,14 @@
 - [x] **Dragon Slayer Ornstein and Executioner Smough** (Anor Londo)
 - [x] **Dark Sun Gwyndolin** – optional
 - [x] **Crossbreed Priscilla** – optional
-- [ ] **Seath the Scaleless** (The Duke’s Archives/Crystal Cave)
-- [ ] **Pinwheel** (The Catacombs)
-- [ ] **Gravelord Nito** (Tomb of the Giants)
-- [ ] **Four Kings** (New Londo Ruins)
-- [ ] **Ceaseless Discharge** (Demon Ruins)
-- [ ] **Demon Firesage** – optional
-- [ ] **Centipede Demon** – optional
-- [ ] **Bed of Chaos** (Lost Izalith)
+- [x] **Seath the Scaleless** (The Duke’s Archives/Crystal Cave)
+- [x] **Pinwheel** (The Catacombs)
+- [x] **Gravelord Nito** (Tomb of the Giants)
+- [x] **Four Kings** (New Londo Ruins)
+- [x] **Ceaseless Discharge** (Demon Ruins)
+- [x] **Demon Firesage** – optional
+- [x] **Centipede Demon** – optional
+- [x] **Bed of Chaos** (Lost Izalith)
 
 ## Artorias of the Abyss DLC Bosses
 - [ ] **Sanctuary Guardian** (Sanctuary Garden)
