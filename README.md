@@ -26,8 +26,8 @@
 ## Artorias of the Abyss DLC Bosses
 - [x] **Sanctuary Guardian** (Sanctuary Garden)
 - [x] **Artorias the Abysswalker** (Royal Wood)
-- [ ] **Black Dragon Kalameet** – optional
-- [ ] **Manus, Father of the Abyss** (Chasm of the Abyss)
+- [x] **Black Dragon Kalameet** – optional
+- [x] **Manus, Father of the Abyss** (Chasm of the Abyss)
 
 ## Fina boss
-- [ ] **Gwyn, Lord of Cinder** (Kiln of the First Flame)
+- [x] **Gwyn, Lord of Cinder** (Kiln of the First Flame)
