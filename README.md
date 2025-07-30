@@ -24,8 +24,8 @@
 - [x] **Bed of Chaos** (Lost Izalith)
 
 ## Artorias of the Abyss DLC Bosses
-- [ ] **Sanctuary Guardian** (Sanctuary Garden)
-- [ ] **Artorias the Abysswalker** (Royal Wood)
+- [x] **Sanctuary Guardian** (Sanctuary Garden)
+- [x] **Artorias the Abysswalker** (Royal Wood)
 - [ ] **Black Dragon Kalameet** – optional
 - [ ] **Manus, Father of the Abyss** (Chasm of the Abyss)
 
